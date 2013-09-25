@@ -2,8 +2,8 @@
   "deals": {
     "deal": [
       {
-        "dealid": "1000",
-        "productname": "Yepme shopping",
+        "dealId": "1000",
+        "productName": "Yepme shopping",
         "place": "WhiteField",
         "value": "Rs1500",
         "discount": "Rs300",
@@ -13,8 +13,8 @@
 	"Imageurl": ""
       },
       {
-        "dealid": "1001",
-        "productname": "Meditation and yoga",
+        "dealId": "1001",
+        "productName": "Meditation and yoga",
         "place": "Electronic city",
         "value": "Rs3000",
         "discount": "Rs.500",
@@ -35,8 +35,8 @@
 	"Imageurl": ""
       },
       {
-        "dealid": "1003",
-        "productname": "Cosmetics",
+        "dealId": "1003",
+        "productName": "Cosmetics",
         "place": "Indira Nagar",
         "value": "Rs2000",
         "discount": "Rs.300",
@@ -46,8 +46,8 @@
 	"Imageurl": ""
       },
       {
-        "dealid": "1004",
-        "productname": "Fossil bags",
+        "dealId": "1004",
+        "productName": "Fossil bags",
         "place": "Marthahalli",
         "value": "Rs4000",
         "discount": "Rs.600",
@@ -57,8 +57,8 @@
 	"Imageurl": ""
       },
       {
-        "dealid": "1005",
-        "productname": "Spencers",
+        "dealId": "1005",
+        "productName": "Spencers",
         "place": "Hennur",
         "value": "Rs2500",
         "discount": "Rs.500",
