@@ -1,0 +1,28 @@
+{
+  "store": {
+    "Items": [
+      {
+        "floor": "1",
+        "productname": "Eggs",
+        "productname": "Milk",
+        "productname": "Vegetables",
+		"productname": "Eggs"
+      },
+      {
+       "floor": "2",
+       "productname": "Perfumes",
+       "productname": "Shampoo",
+       "productname": "Jeans",
+		"productname": "Sunglasses",
+		"productname":"Sandals"
+      },
+	  {
+       "floor": "3",
+       "productname": "Softdrink",
+       "productname": "Choclates",
+	   "productname": "Pulses",
+	   "productname": "Rice"
+      }
+  			]
+	}
+}
